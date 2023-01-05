@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Publications
-======
+
 * Mitani, R., Ohsaki, S., Nakamura, H., Watano, S. (2021). Analysis of Adhesion Mechanism of DPIs in Oral Cavity, J. Soc. Powder Technol., Japan, 58, 127–137. (https://doi.org/10.4164/sptj.58.127).  
 
 
