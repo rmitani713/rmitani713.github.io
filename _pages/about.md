@@ -87,11 +87,11 @@ Award
 Reserch Support
 ======
 04/2021 – 03/2023  
-Grant-in-Aid for JSPS Fellows]  
+Grant-in-Aid for JSPS Fellows  
 • Dynamics of non-spherical particles in the gas phase and its application to analysis of behavior of particles in human lung.  
 Amount: 1,500,000 JPY  
 
-02/2021 – 02/2022 
-Hosokawa Powder Technology Foundation, Young Researcher Scholarship 
-• Analysis of Non-spherical Particles Behavior in Gas Phase. 
-Amount: 300,000 JPY 
+02/2021 – 02/2022  
+Hosokawa Powder Technology Foundation, Young Researcher Scholarship  
+• Analysis of Non-spherical Particles Behavior in Gas Phase.  
+Amount: 300,000 JPY  
