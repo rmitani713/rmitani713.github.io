@@ -12,7 +12,8 @@ Welcome to My Website
 ======
 
 本サイトは三谷亮介の個人webサイトです。  
-私の研究内容・業績・CVについて紹介いたします。  
+私の研究内容・業績・CVについて紹介いたします。 
+
 This is the personal website of Ryosuke Mitani.  
 I introduce my research contents, achievements, and CV.  
 
