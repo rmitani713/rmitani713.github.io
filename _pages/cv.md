@@ -11,49 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Department of Chemical Engineering, College of Engineering, Osaka Prefecture University, 2018
+* M.S. in Department of Chemical Engineering, Graduate School of Engineering, Osaka Prefecture University, 2020
+* Ph.D in Department of Chemical Engineering, Graduate School of Engineering, Osaka Metropolitan University, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 04/2018 – 03/2020: Teaching Assistant
+  * Osaka Prefecture University
+  * Supported about 40 bachelor students with chemical engineering experiment and mechanical working training.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 04/2018 – 03/2021: Research Assistant
+  * Osaka Prefecture University
+  • Analysis of powder behavior in ball mills and hammer mills by using CFD-DPM and CFD-DEM.
+  • Granulation of porous particles by high sheer mixer granulator.  
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Mitani, R., Ohsaki, S., Nakamura, H., Watano, S. (2021). Analysis of Adhesion Mechanism of DPIs in Oral Cavity, J. Soc. Powder Technol., Japan, 58, 127–137. (https://doi.org/10.4164/sptj.58.127).  
+* Mitani, R., Ohsaki, S., Nakamura, H., Watano, S. (2020). Numerical Study on Particle Adhesion in Dry Powder Inhaler Device, Chem. Pharm. Bull., 68, 726–736. (https://doi.org/10.1248/cpb.c20-00106)  
+* Ohsaki, S., Mitani, R., Nakamura, H., Watano, S. (2019). Effect of Particle–Wall Interaction and Particle Shape on Particle Deposition Behavior in Human Respiratory System, Chem. Pharm. Bull., 67, 1328–1336. (https://doi.org/10.1248/cpb.c19-00693)  
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+準備中.  
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+準備中.  
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
