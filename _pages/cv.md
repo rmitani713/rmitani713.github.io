@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+
+  
 Education
 ======
 * B.S. in Department of Chemical Engineering, College of Engineering, Osaka Prefecture University, 2018
