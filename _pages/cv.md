@@ -22,8 +22,8 @@ Work experience
   * Supported about 40 bachelor students with chemical engineering experiment and mechanical working training.
 
 * 04/2018 – 03/2021: Research Assistant
-  * Osaka Prefecture University
-  • Analysis of powder behavior in ball mills and hammer mills by using CFD-DPM and CFD-DEM.
+  * Osaka Prefecture University  
+  • Analysis of powder behavior in ball mills and hammer mills by using CFD-DPM and CFD-DEM.  
   • Granulation of porous particles by high sheer mixer granulator.  
   
 
