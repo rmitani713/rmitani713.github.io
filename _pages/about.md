@@ -11,12 +11,16 @@ redirect_from:
 Welcome to My Website
 ======
 
-本サイトは三谷亮介の個人webサイトです。私の研究内容・業績・CVについて紹介いたします。  
-This is the personal website of Ryosuke Mitani. I introduce my research contents, achievements, and CV.  
+本サイトは三谷亮介の個人webサイトです。  
+私の研究内容・業績・CVについて紹介いたします。  
+This is the personal website of Ryosuke Mitani.  
+I introduce my research contents, achievements, and CV.  
+
 
 Current Affiliation
 ======
 Third year of Ph.D student at [Watano Lab](https://www.omu.ac.jp/eng/chemeng3/) Graduate School of Chemical Engneering, Osaka Metropolitan University.
+
 
 EDUCATION
 ======
@@ -31,6 +35,7 @@ Department of Chemical Engineering, Graduate School of Engineering, Osaka Prefec
 04/2014 – 03/2018  
 Bachelor Degree  
 Department of Chemical Engineering, College of Engineering, Osaka Prefecture University  
+
 
 EDUCATIONAL WORK EXPERIENCE
 ======
@@ -48,6 +53,7 @@ Teaching Assistant, Osaka Prefecture University
 • Supported about 40 bachelor students with chemical engineering experiment and mechanical working training. 
 
 
+
 Research Interests
 ======
 • Powder Technology  
@@ -57,14 +63,17 @@ Research Interests
 • Discrete Element Method  
  
 
+
 Membership
 ======
 • The Society of Powder Technology, Japan  
 • The Society of Chemical Engineering, Japan  
 
+
 Publication
 ======
 [My profile](https://scholar.google.co.jp/citations?hl=en&view_op=list_works&gmla=AJsN-F7MOdB0a5l9VT4gs_hjp572QDANbkQb-rozw_B3oqe8vkIVijqHTje_WYbYZoGMlBca1SlajJHlnOJi_zGsYU_4IoF9DLUAIV-K3EuAnSxHE-L88jY&user=XoJApAsAAAAJ). 
+
 
 
 Award
@@ -72,6 +81,7 @@ Award
 • PARTEC 2019 International Congress on Particle Technology Poster Award  
 • 製剤機械技術学会第28回大会 優秀賞  
 • 化学工学会第83年会 優秀学生賞 化学工学会  
+
 
 Reserch Support
 ======
