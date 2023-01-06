@@ -40,11 +40,15 @@ redirect_from:
 <img src='/images/lung.jpg' width="600">
 </div>
 
+
+
 * 粉末吸入製剤(DPI)における粒子運動挙動の解明  
 
 <div style="text-align: center;">
 <img src='/images/DPI.jpg' width="600">
 </div>
+
+
 
 研究の興味・関心
 ======
