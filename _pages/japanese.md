@@ -37,7 +37,7 @@ redirect_from:
 * 非球形粒子の気相中および肺内における運動挙動の解明  
 
 <div style="text-align: center;">
-<img src='/images/lung_deposition.jpg' width="600">
+<img src='/images/lung.jpg' width="600">
 </div>
 
 * 粉末吸入製剤(DPI)における粒子運動挙動の解明  
