@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+所属
+======
+大阪公立大学 大学院工学研究科 物質・化学系専攻 化学工学分野 [装置工学グループ](https://www.omu.ac.jp/eng/chemeng3/)  
+博士後期課程 3年  
+
 学歴
 ======
 * 2014/04 – 2018/03 大阪府立大学 工学域 物質化学系学類 化学工学課程 卒業
@@ -25,9 +30,33 @@ redirect_from:
   * 大阪府立大学  
 
 * 2020/04 – 2023/03: 日本学術振興会 特別研究員(DC2)
- 
+
+
+研究内容
+======
+* 非球形粒子の気相中および肺内における運動挙動の解明  
+
+<div style="text-align: center;">
+<img src='/images/lung_deposition.jpg' width="600">
+</div>
+
+* 粉末吸入製剤(DPI)における粒子運動挙動の解明  
+
+<div style="text-align: center;">
+<img src='/images/DPI.jpg' width="600">
+</div>
+
+研究の興味・関心
+======
+* 粉末吸入製剤(DPI)  
+* カスケードインパクター  
+* COVID-19  
+* 離散要素法(Discrete Element Method: DEM)  
+* 数値流体力学(Computational Fluid Dynamics: CFD)  
+
+
   
-出版物
+論文
 ======
 * Mitani, R., Ohsaki, S., Nakamura, H., Watano, S. (2021). Analysis of Adhesion Mechanism of DPIs in Oral Cavity, J. Soc. Powder Technol., Japan, 58, 127–137. [(https://doi.org/10.4164/sptj.58.127)](https://doi.org/10.4164/sptj.58.127)  
 * Mitani, R., Ohsaki, S., Nakamura, H., Watano, S. (2020). Numerical Study on Particle Adhesion in Dry Powder Inhaler Device, Chem. Pharm. Bull., 68, 726–736. [(https://doi.org/10.1248/cpb.c20-00106)](https://doi.org/10.1248/cpb.c20-00106)  
