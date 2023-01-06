@@ -39,8 +39,8 @@ redirect_from:
 <div style="text-align: left;">
 <img src='/images/lung.jpg' width="600">
 </div>  
-
-
+<br>  
+  
   
   
 * 粉末吸入製剤(DPI)における粒子運動挙動の解明  
@@ -48,7 +48,7 @@ redirect_from:
 <div style="text-align: left;">
 <img src='/images/DPI.jpg' width="600">
 </div>  
-  
+<br>    
   
   
 
