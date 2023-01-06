@@ -41,13 +41,16 @@ redirect_from:
 </div>  
 
 
-
+  
+  
 * 粉末吸入製剤(DPI)における粒子運動挙動の解明  
 
 <div style="text-align: left;">
 <img src='/images/DPI.jpg' width="600">
 </div>  
-
+  
+  
+  
 
 
 研究の興味・関心
