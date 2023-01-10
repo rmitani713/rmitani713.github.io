@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ryosuke MITANI"
+title: "Ryosuke MITANI personal website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
