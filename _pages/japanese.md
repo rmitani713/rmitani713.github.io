@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+About 三谷亮介
+======
+
+
 所属
 ======
 大阪公立大学 大学院工学研究科 物質・化学系専攻 化学工学分野 [装置工学グループ](https://www.omu.ac.jp/eng/chemeng3/)  
