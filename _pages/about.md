@@ -21,13 +21,13 @@ I introduce my research contents, achievements, and CV.
 
 Current Affiliation
 ======
-Third year of Ph.D student at [Watano Lab](https://www.omu.ac.jp/eng/chemeng3/) Graduate School of Chemical Engneering, Osaka Metropolitan University.
+Projected Assistant Professor at [Okuda Lab](https://www.applc.keio.ac.jp/~okuda/index.html) Department of Applied Chemistry, Faculty of Science and Technology, Keio University.
 
 
 EDUCATION
 ======
-04/2020 – present  
-PhD Candidate  
+04/2020 – 03/2023  
+PhD Candidate at [Watano Lab](https://www.omu.ac.jp/eng/chemeng3/)  
 Department of Chemical Engineering, Graduate School of Engineering, Osaka Metropolitan University  
 
 04/2018 – 03/2020  
@@ -61,6 +61,7 @@ Research Interests
 • Powder Technology  
 • Dry Powder Inhaler  
 • Aerosol  
+• Particle Charge  
 • Computer Fluid Dynamics  
 • Discrete Element Method  
  
