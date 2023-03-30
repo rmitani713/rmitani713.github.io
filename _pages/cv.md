@@ -15,10 +15,13 @@ Education
 ======
 * B.S. in Department of Chemical Engineering, College of Engineering, Osaka Prefecture University, 2018
 * M.S. in Department of Chemical Engineering, Graduate School of Engineering, Osaka Prefecture University, 2020
-* Ph.D in Department of Chemical Engineering, Graduate School of Engineering, Osaka Metropolitan University, 2023 (expected)
+* Ph.D in Department of Chemical Engineering, Graduate School of Engineering, Osaka Metropolitan University, 2023  
 
 Work experience
 ======
+* 04/2023 – Present: Projected Assistant Professor
+  * Keio University
+
 * 04/2018 – 03/2020: Teaching Assistant
   * Osaka Prefecture University
   * Supported about 40 bachelor students with chemical engineering experiment and mechanical working training.
