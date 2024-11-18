@@ -92,21 +92,21 @@ Award
 
 Reserch Support
 ======
-04/2024 – 03/2027
-JSPS KAKENHI (Grant-in-Aid for Early-Career Scientists)
-• Analysis on Effect of Charging State of Aerosol Particle on Deposition.
+04/2024 – 03/2027  
+JSPS KAKENHI (Grant-in-Aid for Early-Career Scientists)  
+• Analysis on Effect of Charging State of Aerosol Particle on Deposition.  
 
-04/2024 – 03/2027 (Co-Investigator)
-JSPS KAKENHI (Grants-in-Aid for Scientific Research, Fund for the Promotion of Joint International Research (International Collaborative Research))
-• Development of a Health Effect Evaluation System for Particulate Matter Characteristics for the Central Asian Region.
+04/2024 – 03/2027 (Co-Investigator)  
+JSPS KAKENHI (Grants-in-Aid for Scientific Research, Fund for the Promotion of Joint International Research (International Collaborative Research))  
+• Development of a Health Effect Evaluation System for Particulate Matter Characteristics for the Central Asian Region.  
 
-04/2024 – 03/2025
-Hosokawa Powder Technology Foundation (HPTF23115)
-• Numerical Analysis on Deposition of Charged Particles in Human Lung
+04/2024 – 03/2025  
+Hosokawa Powder Technology Foundation (HPTF23115)  
+• Numerical Analysis on Deposition of Charged Particles in Human Lung.  
 
-04/2024 – 03/2025
-The Information Center of Particle Technology, Japan (HPTF23115)
-• Development of Method for Generating Low-concentration ClO2 Gas by Mechanochemical Reactions
+04/2024 – 03/2025  
+The Information Center of Particle Technology, Japan (HPTF23115)  
+• Development of Method for Generating Low-concentration ClO2 Gas by Mechanochemical Reactions.  
 
 04/2021 – 03/2023  
 Grant-in-Aid for JSPS Fellows  
