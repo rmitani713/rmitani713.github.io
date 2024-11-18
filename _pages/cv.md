@@ -19,7 +19,10 @@ Education
 
 Work experience
 ======
-* 04/2023 – Present: Projected Assistant Professor
+* 08/2024 – Present: Projected Researcher
+  * University of Tokyo
+    
+* 04/2023 – 07/2024: Projected Assistant Professor
   * Keio University
 
 * 04/2018 – 03/2020: Teaching Assistant
