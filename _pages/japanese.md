@@ -15,8 +15,7 @@ About 三谷亮介
 
 所属
 ======
-慶應義塾大学 大学院理工学研究科 応用化学科 [環境化学研究室](https://www.applc.keio.ac.jp/~okuda/index.html)  
-特任助教  
+東京大学 大学院工学系研究科 原子力国際専攻 [酒井研究室](https://dem.t.u-tokyo.ac.jp/) 特任研究員 
 
 学歴
 ======
@@ -36,11 +35,14 @@ About 三谷亮介
 * 2021/04 – 2023/03: 日本学術振興会 特別研究員(DC2)  
   * 大阪府立大学  
 
-* 2023/04 – 現在: 慶應義塾大学大学院 理工学研究科 応用化学科 環境化学研究室 特任助教  
+* 2023/04 – 2024/07: 慶應義塾大学大学院 理工学研究科 応用化学科 [環境化学研究室](https://www.applc.keio.ac.jp/~okuda/index.html) 特任助教  
 
 研究内容
 ======
-* 非球形粒子の気相中および肺内における運動挙動の解明  
+* 大規模固気液三相流の数値シミュレーション解析
+* 帯電エアロゾル粒子の肺沈着現象の解明
+* 非球形粒子の気相中および肺内における運動挙動の解明
+
 
 <div style="text-align: left;">
 <img src='/images/lung.jpg' width="600">
@@ -61,12 +63,13 @@ About 三谷亮介
 
 研究の興味・関心
 ======
-* 粉末吸入製剤(DPI)  
+*  粉末吸入製剤(DPI)  
 * カスケードインパクター  
 * COVID-19  
 * 粒子帯電現象
 * 離散要素法(Discrete Element Method: DEM)  
-* 数値流体力学(Computational Fluid Dynamics: CFD)  
+* 数値流体力学(Computational Fluid Dynamics: CFD)
+* Volume of Fluid: VOF
 
 
   
