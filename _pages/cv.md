@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-* 08/2024 – Present: Projected Researcher
+* 08/2024 – Present: Project Researcher
   * The University of Tokyo
     
 * 04/2023 – 07/2024: Projected Assistant Professor
