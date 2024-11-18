@@ -21,7 +21,7 @@ I introduce my research contents, achievements, and CV.
 
 Current Affiliation
 ======
-Projected Assistant Professor at [Okuda Lab](https://www.applc.keio.ac.jp/~okuda/index.html) Department of Applied Chemistry, Faculty of Science and Technology, Keio University.
+Project Researcher at [Sakai Lab](https://dem.t.u-tokyo.ac.jp/index.html) Department of Nuclear Engineering and Management, Graduate School of Engineering, The University of Tokyo.
 
 
 EDUCATION
@@ -41,6 +41,9 @@ Department of Chemical Engineering, College of Engineering, Osaka Prefecture Uni
 
 EDUCATIONAL WORK EXPERIENCE
 ======
+04/2023 – 07/2024 
+Project Assistant Professor at [Okuda Lab](https://www.applc.keio.ac.jp/~okuda/index.html) Department of Applied Chemistry, Faculty of Science and Technology, Keio University.
+
 04/2021 – 03/2023  
 JSPS Doctoral fellow, Osaka Metropolitan University (Supervisor: Prof. Watano)  
 • Analysis of non-spherical particle behavior in gas phase and human lung.  
