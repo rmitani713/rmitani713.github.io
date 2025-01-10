@@ -23,5 +23,8 @@ redirect_from:
 
 * Ohsaki, S., Mitani, R., Nakamura, H., Watano, S. (2019). Effect of Particle–Wall Interaction and Particle Shape on Particle Deposition Behavior in Human Respiratory System, Chem. Pharm. Bull., 67, 1328–1336. [(https://doi.org/10.1248/cpb.c19-00693)](https://doi.org/10.1248/cpb.c19-00693)  
   
-  
+
+
+
+[My profile](https://scholar.google.co.jp/citations?hl=en&view_op=list_works&gmla=AJsN-F7MOdB0a5l9VT4gs_hjp572QDANbkQb-rozw_B3oqe8vkIVijqHTje_WYbYZoGMlBca1SlajJHlnOJi_zGsYU_4IoF9DLUAIV-K3EuAnSxHE-L88jY&user=XoJApAsAAAAJ).
   
