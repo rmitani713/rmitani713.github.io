@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Google Scholar](https://scholar.google.co.jp/citations?hl=en&view_op=list_works&gmla=AJsN-F7MOdB0a5l9VT4gs_hjp572QDANbkQb-rozw_B3oqe8vkIVijqHTje_WYbYZoGMlBca1SlajJHlnOJi_zGsYU_4IoF9DLUAIV-K3EuAnSxHE-L88jY&user=XoJApAsAAAAJ).
+[Google Scholar](https://scholar.google.co.jp/citations?hl=en&view_op=list_works&gmla=AJsN-F7MOdB0a5l9VT4gs_hjp572QDANbkQb-rozw_B3oqe8vkIVijqHTje_WYbYZoGMlBca1SlajJHlnOJi_zGsYU_4IoF9DLUAIV-K3EuAnSxHE-L88jY&user=XoJApAsAAAAJ)
 
 
 * Mitani, R., Yamanaka, H., Ishigaki, Y., Nakayama, D., Sakamoto, M., Watanabe, C., Mori, T., Okuda, T., (2024). Microbiostatic effect of indoor air quality management with low-concentration gaseous chlorine dioxide on fungal growth, Asian J. Atmos. Environ, 18. [(https://doi.org/10.1007/s44273-024-00047-8)](https://doi.org/10.1007/s44273-024-00047-8)
