@@ -19,7 +19,8 @@ This is the personal website of Ryosuke Mitani.
 I introduce my research contents, achievements, and CV.  
 
 
-Current Affilation
+Current Affiliation
+======
 Assistant Professor at [Sakai Lab](https://dem.t.u-tokyo.ac.jp/index.html) Department of Nuclear Engineering and Management, Graduate School of Engineering, The University of Tokyo.
 
 
