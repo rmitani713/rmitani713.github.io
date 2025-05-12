@@ -19,9 +19,7 @@ This is the personal website of Ryosuke Mitani.
 I introduce my research contents, achievements, and CV.  
 
 
-Current Affiliation
-======
-Project Researcher at [Sakai Lab](https://dem.t.u-tokyo.ac.jp/index.html) Department of Nuclear Engineering and Management, Graduate School of Engineering, The University of Tokyo.
+Current Assistant Professor at [Sakai Lab](https://dem.t.u-tokyo.ac.jp/index.html) Department of Nuclear Engineering and Management, Graduate School of Engineering, The University of Tokyo.
 
 
 EDUCATION
@@ -41,6 +39,9 @@ Department of Chemical Engineering, College of Engineering, Osaka Prefecture Uni
 
 EDUCATIONAL WORK EXPERIENCE
 ======
+08/2024 – 04/2025
+Project Researcher at [Sakai Lab](https://dem.t.u-tokyo.ac.jp/index.html) Department of Nuclear Engineering and Management, Graduate School of Engineering, The University of Tokyo.
+
 04/2023 – 07/2024 
 Project Assistant Professor at [Okuda Lab](https://www.applc.keio.ac.jp/~okuda/index.html) Department of Applied Chemistry, Faculty of Science and Technology, Keio University.
 
